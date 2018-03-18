@@ -1,0 +1,55 @@
+header {
+  height: 80px;
+  text-align: center;
+}
+
+main {
+  background-color: #f5f5d1	;
+  height: 900px;
+  text-align: center;
+}
+
+
+.logo {
+  margin-top: -40px;
+
+  object-fit: contain;
+  /*i dont know why my logo is out of my header*/
+}
+
+.container {
+  width: 400px;
+  margin: auto;
+  text-align: center;
+}
+
+
+#stockInput {
+  width: 219px;
+  height: 37px;
+  border-radius: 3.2px;
+  border: solid 0.8px #1f233e;
+  background-color: inherit;
+  display: block;
+  margin: auto;
+  font-family: Source Sans Pro;
+  font-size: 14px;
+  letter-spacing: 0.2px;
+  text-align: center;
+  color: #ffffff;
+}
+
+#button {
+  width: 91px;
+  height: 37px;
+  border-radius: 3.2px;
+  border: solid 0.8px #1f233e;
+  background-color: inherit;
+  margin-top: 48px;
+  font-family: Source Sans Pro;
+  font-size: 14px;
+  letter-spacing: 0.2px;
+  text-align: center;
+  color: #ffffff;
+  margin-right: -3px;
+}
